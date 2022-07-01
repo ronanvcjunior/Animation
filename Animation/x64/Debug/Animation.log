@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Pessoal\CG\Animation\Animation\main.cpp(40,39): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  Animation.vcxproj -> D:\Pessoal\CG\Animation\x64\Debug\Animation.exe
